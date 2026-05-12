@@ -1,6 +1,6 @@
 # Document AI ChatBot with Ollama
 
-A full-stack PDF chat application with a UI styled to closely match the provided reference image.
+A full-stack PDF chat application with a clean UI
 
 ## Stack
 - Frontend: React + Vite
@@ -42,7 +42,7 @@ npm run dev
 cd frontend
 cp .env.example .env
 npm install
-npm npm run dev -- --host 0.0.0.0
+npm run dev -- --host 0.0.0.0
 ```
 
 ### 4) Open the app
