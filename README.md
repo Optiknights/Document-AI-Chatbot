@@ -15,7 +15,7 @@ A full-stack PDF chat application with a clean UI
 - Ask questions in a right-side chat panel
 - Retrieve relevant snippets from the document before generating answers
 - Use Ollama locally for both chat and embeddings
-- Clean blue-and-white UI inspired by the sample image
+- Clean blue-and-white UI
 
 ## Project Structure
 - `frontend/` React UI
